@@ -43,8 +43,6 @@ func GetTodo() {
 // GetTodo retrieves from the existing todo list
 
 func main() {
-	fmt.Println("Hello world!")
-
 	command := os.Args[1]
 
 	// process the command
